@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462523970731",
+    "project_id": "toktik-5c03a",
+    "storage_bucket": "toktik-5c03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462523970731:android:87f11ed049f6516706f3ee",
+        "android_client_info": {
+          "package_name": "com.example.toktik_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462523970731-m7rmhv0irc7mrpkd4nsc6rqdalomkcio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPeWzzwKqMDl3BJrlshzaRTp-vGVZpWyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462523970731-m7rmhv0irc7mrpkd4nsc6rqdalomkcio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
